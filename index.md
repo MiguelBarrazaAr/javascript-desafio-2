@@ -9,11 +9,15 @@ donde x es la cantidad de montos totales,
 n son los cantidad de montos que superan los 500. y m es el número más grande.    
   
 Principio del código.  
+
     var montos = [500, 800, 100, 300, 2400, 4310, 5010, 312, 841, 1410, 3030, 330, 510, 501, 499, 5, 610]    
     
     // completar.  
+    
 fin del código.    
+
 ## resolución  
+
   Para resolver este ejercicio recomendamos utilizar bucles, condicionales.  
   A continuación tienen una forma de resolverlo:  
   [https://youtu.be/8-wWb7n8b8k](https://youtu.be/8-wWb7n8b8k)  
