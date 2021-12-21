@@ -23,7 +23,7 @@ Para resolver este ejercicio recomendamos utilizar bucles, condicionales.
 A continuación tienen una forma de resolverlo:  
 [https://youtu.be/8-wWb7n8b8k](https://youtu.be/8-wWb7n8b8k)  
 Para ver el código puedes descargarlo del siguiente  enlace:  
-[desafio.zip](desafio.zip)
+[desafio.zip](desafio.zip)  
 o puedes verlo online en:  
 [desafio.js](desafio.js)  
 En el video está la forma de contactarnos para sugerencias y comentarios.
